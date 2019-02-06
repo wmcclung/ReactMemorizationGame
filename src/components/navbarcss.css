@@ -1,0 +1,11 @@
+@font-face {
+
+    font-family: 'mk2';
+    src: url ("./font/mk2.ttf") format('truetype');
+    color: yellow;
+  
+  }
+
+  #navbar-brand {
+    color: yellow;
+  }
