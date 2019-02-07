@@ -8,7 +8,7 @@ This application tests your memory. Click on a different photo until you've clic
 
 You can see the app in action on heroku at
 
-https://wmcclung.github.io/ReactClickyGame/
+https://wmcclung.github.io/ReactMemorizationGame/
 
 [screenshot of app](https://github.com/wmcclung/ReactClickyGame/blob/master/reactclickygame/src/images/MK2%20Memorization%20Game%20(1).jpg)
 
