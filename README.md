@@ -10,7 +10,7 @@ You can see the app in action on heroku at
 
 https://react-memorization-game.herokuapp.com
 
-[screenshot of app]!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ![screenshot of app] (https://github.com/wmcclung/ReactClickyGame/blob/master/reactclickygame/src/images/MK2%20Memorization%20Game%20(1).jpg)
 
