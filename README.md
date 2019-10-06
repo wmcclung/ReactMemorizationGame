@@ -8,22 +8,17 @@ This application tests your memory. Click on a different photo until you've clic
 
 You can see the app in action on heroku at
 
-https://wmcclung.github.io/ReactMemorizationGame/
+https://react-memorization-game.herokuapp.com
 
-[screenshot of app](https://github.com/wmcclung/ReactClickyGame/blob/master/reactclickygame/src/images/MK2%20Memorization%20Game%20(1).jpg)
+[screenshot of app]!
+
+![screenshot of app] (https://github.com/wmcclung/ReactClickyGame/blob/master/reactclickygame/src/images/MK2%20Memorization%20Game%20(1).jpg)
 
 
 ## Authors
 
 * Will McClung 
 
-
-## Notes for TA
-
-Have issues deploying this. Tried the step by step and wasnt able to overcome issues
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
