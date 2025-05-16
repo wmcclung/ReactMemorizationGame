@@ -6,9 +6,6 @@
 This application tests your memory. Click on a different photo until you've clicked on all the unique Mortal Kombat characters 
 ## Getting Started
 
-You can see the app in action on heroku at
-
-https://react-memorization-game.herokuapp.com
 
 ![app screenshot](https://github.com/wmcclung/ReactClickyGame/blob/master/reactclickygame/src/images/MK2%20Memorization%20Game%20(1).jpg)
 
